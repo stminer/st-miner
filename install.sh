@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="3.9.94"
-DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/12/linux"
+DOWNLOAD_HOST="https://github.com/stminer/st-miner/raw/main/linux"
 ORIGIN_EXEC="stminer-${VERSION}"
 
 SERVICE_NAME="stminerservice"
